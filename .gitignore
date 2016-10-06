@@ -4,6 +4,7 @@
 gradle/
 gradlew
 gradlew.bat
+gradle.properties
 
 # Entries for IntelliJ
 .idea/workspace.xml
